@@ -1,0 +1,25 @@
+.numberbutton{
+   
+  margin: 0% 2% 2% 0% !important;
+  
+   min-width:25% !important;
+    min-height: 35% !important;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+}
+.operatorbutton{
+   /* margin: 1% !important;
+   background-color: aqua !important; */
+    min-width:6% !important;
+    height: 15% !important;
+   color: aqua;
+}
+.clearbutton{
+   margin: 0% 5% !important;
+   min-width:25% !important;
+   min-height: 35% !important;
+}
+
+#DEL,#C{
+   color: red !important;
+   }
+ 
